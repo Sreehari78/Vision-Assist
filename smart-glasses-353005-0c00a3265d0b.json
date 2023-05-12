@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smart-glasses-353005",
+  "private_key_id": "0c00a3265d0b942a9234f51309006cc370fa124c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDSQxQrBc0COxtk\niAA0Ru1MvM19+QfjrvoDBCl7pudm1LI+Zq9tIA0f8NsGerOhT5hDQGaFed4TW5xn\nWEulhqP7yRy12RZAuznGewaLTgEseHsHK4gGH3mU5MTc4lDg8YlrFpmbM1Jj12oz\nsYyWgLANArGG6XWGGPUqpwFtV68jfqbI2Fmr/FQiGsjFhwDLn07c88OQfSn3YRKx\nW2VNcbwNHKW7c1v3x5O5m1pwhIYBWGfBhpKW5xDmNqs5QvEjod5ZA8J+K7vhsA/C\nRlz1+l/JK+DCRd0KIy8dAeky+UnBotD0P+WiP33lk4s/vuokwOXqWEvpbwuhgPJq\nlQYxKsbVAgMBAAECggEARy8dh1k96Fjxc64Vf51Znma3HURvttYY32eL0ciWQ/qT\nY8vo7UVyHBOzWzS0VtL3JiGJ8/tnw177CwPaDG6SWt5iAXC+92hLbZZeB1B/1jnt\n0OYcdZI3W8C9o1hdcGJllyM+GsybwqB93IVqJtPnhmgYiSfFuYH+kpOayJVsflO3\ngIBN7Y3KqUcEmvCh7MbbTWf4OXpoAqDqTZJ6bR+93cK+PuUbqNXHggjsmxX2UKml\nYvVS3DG+oK4u7LR3M4UTxK4P8JoWi/OAUK4Il+dJ/ktKtnWl2Hoxu8H6Srn9r0i/\nSkSXdkyR8OSKtcYMKCyN0qMemZNUUU5UEAJ80vFmmwKBgQD6TzpvQxAjbOVxNXrk\nAjWzGAd+AZCzW1eMp0L9Gut2WOK7mTLjiJPhdTzEtd8Dwv3HA2AyarkmgMLOkAg1\n66SdonEMDz0SJqKVW3l/wl/Iv+0leHbTCBiXTFBYwNfFyAk8Nsw5P17O2EV0/UB+\nfaneBvoFlgreFI3IhyqXGlQk2wKBgQDXCsduKJEVYRUhFKJCJGXuxVFfRvQnTumA\nJkAqxgNfm1rQsNuXxDznz7n/wfdz9rzog40137uiLMS4II6VxDUsneI4RNRmlybK\nHCUqzpzknHAqi+9OtDYN6crKpCsHl4WOUC0ySsY8YbeqHDOwg83isXAn6j7/dGDA\n2pDFXZk6DwKBgQDVH8p4W5iNITZG6ytEomEIqYgPkNOc80QbHXtbOKWNsebzpmB+\n/ZY0XHcuYlCNymP8JHKu2tHk57N234ouJwKVuW8ZvovYPY8nLqjH0D9wFYKc6fH6\ngyU1BaRPvXq7CzRZ0aqXf86AvgJ9tvhH+0U8J6KQSQ3dw5BpUjVATQmiCwKBgQCB\nGMeBKnlvDElTAsAmVROctHiValNJBebIOC5tf1KnIuzyPDqYcgbeY6aWFCwqQgZG\n0DMGFLrgMWAn6eOvpYsGrgIRJcEdlcCDtUHa4Q7vb7smz7tq1GVfFOvZm5T5ic10\nEk4P0zQPK9rHFQczAO2pGjzquYX4djVfkdc3pWlHoQKBgBG4AMlmZenwBSmKl8wB\nGYzMz0NxVZMb3pYX10tCuWa7wcTvZm4gPfyU+PcDZPXFIiBmLSjnftE5JwaN4Uma\nJuRi+NVbxb41mYGi7juPBF7ZtSLuvR/BRJNrxrZ0Va4/XFtyaf3eEhox+P451mja\n6DkJ++IV6+HaUfSiXOcjEtss\n-----END PRIVATE KEY-----\n",
+  "client_email": "blind-glasses@smart-glasses-353005.iam.gserviceaccount.com",
+  "client_id": "102423640621971139594",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/blind-glasses%40smart-glasses-353005.iam.gserviceaccount.com"
+}
