@@ -65,13 +65,8 @@ The main intent of this project is to help blind people who are not able to reco
 
 ## Screenshots
 
-![Screenshot 1](/images/screenshot1.png)
-![Screenshot 2](/images/screenshot2.png)
-
-## Authors
-
-- John Doe - [@johndoe](https://github.com/johndoe)
-- Jane Doe - [@janedoe](https://github.com/janedoe)
+![Screenshot 1](/Screenshots/Architecture-1.png)
+![Screenshot 1](/Screenshots/Architecture-2.png)
 
 ## Acknowledgments
 
