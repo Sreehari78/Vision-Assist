@@ -49,7 +49,8 @@ The main intent of this project is to help blind people who are not able to reco
 
 ## Architecture
 
-![Architecture Diagram](/images/architecture.png)
+![Architecture 1](/Screenshots/Architecture-1.png)
+![Architecture 2](/Screenshots/Architecture-2.png)
 
 ## Limitations
 
@@ -62,11 +63,6 @@ The main intent of this project is to help blind people who are not able to reco
 - Build a personalized object detection model
 - Improve the response time
 - Enhance the object detection model for better accuracy
-
-## Screenshots
-
-![Screenshot 1](/Screenshots/Architecture-1.png)
-![Screenshot 1](/Screenshots/Architecture-2.png)
 
 ## Acknowledgments
 
