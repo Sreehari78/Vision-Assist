@@ -1,4 +1,4 @@
-# Smart Glasses for the Blind
+# Vision Assist
 
 ## Introduction
 
